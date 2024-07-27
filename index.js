@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🤙🏻 DROP YOUR ORDERS NOW"];
+const statusMessages = ["wanna order¿? >3","🤙🏻 DROP YOUR ORDERS NOW","landing after marzi's cue..."];
 
 
 let currentIndex = 0;
