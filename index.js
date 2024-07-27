@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["<a:yellowstar:1266612227113222155> DROP YOUR ORDERS NOW";
 
 
 let currentIndex = 0;
